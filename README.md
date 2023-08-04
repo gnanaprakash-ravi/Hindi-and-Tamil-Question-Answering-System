@@ -21,5 +21,7 @@ The model used are mBERT, XLM-RoBERTa.
 ## Result:
 
 m-BERT (pre-trained on SQuADv1.1, finetuned with chaii) gives 0.55 jaccord score
+mDeBERTa gives 0.579 jaccord score
+mDeBERTa (finetuned with mlqa, xquad, chaii) gives 0.59 jaccord score
 XLM-RoBERTa (pre-trained on squadv2, finetuned with chaii) gives 0.586 jaccord score
 XLM-RoBERTa (pre-trained on squadv2, finetuned with mlqa, xquad, chaii) gives 0.616 jaccord score
